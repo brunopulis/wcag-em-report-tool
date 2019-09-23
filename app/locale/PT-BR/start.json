@@ -3,23 +3,23 @@
 	"SUBTITLE": "Gerador de relatórios de avaliação de acessibilidade web",
 	"INTRO_HD": "O que essa ferramenta faz",
 	"INTRO_1":
-		"This tool helps you generate a report according to the <a href={{link_wcagem}}>Website Accessibility Conformance Evaluation Methodology (WCAG-EM)</a>. It does not perform any accessibility checks. It helps you follow the steps of WCAG-EM, to generate a <a href={{link_report}}>structured report</a> from the input that you provide. It is designed for experienced evaluators who know <a href={{link_wcag}}>Web Content Accessibility Guidelines (WCAG) 2.0</a> and are somewhat familiar with WCAG-EM. For an introduction to WCAG-EM, see the <a href={{link_conformance}}>WCAG-EM Overview</a>.",
+		"Esssa ferramenta ajudar a gerar um relatório de acordo com a <a href={{link_wcagem}}>Metodologia de avaliação de conformidade com acessibilidade web (WCAG-EM)</a>. Não realiza nenhuma avaliação de acessibilidade. Ele ajuda você a seguir as etapas da WCAG-EM, para gerar um <a href={{link_report}}>relatório estruturado</a> a partir das informações fornecidas. Eçe foi desenvolvido para avaliadores experientes que conhecem as <a href={{link_wcag}}>Diretrizes de Acessibilidade Web (WCAG) 2.0</a> e estão familiarizados com WCAG-EM. Para uma introdução ao WCAG-EM, consulte <a href={{link_conformance}}>Visão geral do WCAG-EM</a>.",
 	"INTRO_2":
-		"<strong>Nota:</strong> This tool does not automatically save the information that you enter. To save your data in a file locally on your computer, use Windows shortcut keys Ctrl+S or Mac shortcut keys {{mac}} to open the Save dialog. (Or the 'Save' link at the top of the page will open the Save Evaluation Report page and from there the 'Save data file locally to your computer' link will open the Save dialog.)",
-	"USAGE_HD": "How this tool works",
+		"<strong>Nota:</strong> Essa ferramente não salva automaticamente as informações inseridas. Para salvar seus dados em um arquivo no seu computador, use as teclas de atalho do Windows Ctrl+S ou Mac {{mac}} para abrir a caixa de dialógo Salvar. (Ou o link 'Salvar' na parte superior da página abrirá a página Salvar relatório de avaliação e, a partir daí, o link 'Salvar arquivo no seu computador' o link abrirá a caixa de dialógo Salvar.)",
+	"USAGE_HD": "Como essa ferramenta funciona",
 	"USAGE_LI1":
-		"All functionality provided by this tool is now loaded and running locally in your web browser. You don't need an Internet connection beyond this point. When you close your web browser window, any unsaved data is lost.",
+		"Todas as funcionalidades fornecidas por esta ferramenta agora estão carregadas e em execução local no seu navegador da web. Você não precisa de uma conexão com a Internet além deste ponto. Quando você fecha a janela do navegador, qualquer dado não salvo é perdido.",
 	"USAGE_LI2":
-		"All input that you provide through this tool is recorded as JSON data in the background (in your web browser, not on any server). You can Save periodically as you work to avoid losing data if your web browser closes.",
+		"Todas as entradas que você fornece através dessa ferramenta são registradas em um arquivo JSON em segundo plano (no seu navegador, não em nenhum servidor). Você pode salvar periodicamente seu trabalho para evitar a perda dos dados caso seu navegador fechar.",
 	"USAGE_LI3":
-		"You can save partially-complete reports and work on them later. To reload a saved file, use the 'Open' link at the top and find the file that you previously saved.",
+		"Você pode salvar relatórios parcialmente completos e trabalhar neles posteriormente. Para recarregar um arquivo salvo, use o link 'Abrir' na parte superior e localize o arquivo que você salvou anteriormente.",
 	"USAGE_LI4":
-		"Links that are not part of the navigation or functionality (links to external resources) open in a new web browser windows.",
-	"TIPS_HD": "Tips for using this tool",
-	"TIPS_LI1": "You can go back and forth between the steps in any order. None of the fields are required.",
-	"TIPS_LI2": "To get more information about a field, select the {{info}} icon next to the field label.",
+		"Os links que não fazem parte da navegação ou funcionalidade (links para recursos externos)são abertos em uma nova aba do navegador.",
+	"TIPS_HD": "Dicas para usar essa ferramenta",
+	"TIPS_LI1": "Você pode navegar entre as etapas em qualquer ordem. Nenhum dos campos é obrigatório.",
+	"TIPS_LI2": "Para obter maiores informações sobre um campo, selecione o ícone {{info}} ao lado do rótulo do campo.",
 	"TIPS_LI3":
-		"The tool provides your report as HTML and CSS files. You can download these files from the 'View Report' page. You can then change the report content and visual design.",
+		"A ferramenta fornece seu relatório como arquivos HTML e CSS. Você pode fazer download desses arquivos na página 'Exibir relatório'. Você pode alterar o conteúdo do relatório e o seu design.",
 	"TIPS_LI4":
-		"You can include in your report WCAG 2.0 success criteria beyond the conformance target. For example, the website is only required to meet Level AA, yet you want to also include Level AAA success criteria in the report. In step 4, use the level filter to show higher level criteria. Any criteria with a result will always be included in the report."
+		"Você pode incluir no seu relatório os critérios de sucesso da WCAG 2.0 além da meta de conformidade. Por exemplo, o site é necessário apenas atender ao nível AA, mas você também deseja incluir critérios de sucesso no nível AAA no relatório. Na etapa 4, use o filtro de nível para mostrar os critérios de nível superior. Quaisquer critérios com resultado sempre serão incluídos no relatório."
 }
